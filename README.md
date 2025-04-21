@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pasos para ejecutar el proyecto  
 1.- git clone https://github.com/Sedusau/ScrumProject.git  
 2.- ejecutar composer install  
